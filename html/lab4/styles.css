@@ -1,0 +1,15 @@
+h1 {
+    background-color: pink;
+    text-align: center;
+}
+
+img {
+    height: 200px; 
+    /* 250px */
+    width: 200px;
+    /* 350 */
+}
+
+body {
+    overflow: hidden;
+}
